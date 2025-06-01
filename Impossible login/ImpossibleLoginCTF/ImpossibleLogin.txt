@@ -1,0 +1,18 @@
+ImpossibleLogin
+AUTHOR:	Ubaid
+MEDIUM:Easy
+FLAG:ACM{you_found_it}
+DESCRIPTION:
+Not every doorway is meant to be opened.
+Not every path leads to light.
+Beyond the veil of simplicity lies a domain built on misdirection, patience, and the silence of unanswered questions.
+Here, every step you take may either bring you closer to clarity — or bury you deeper in confusion.
+Choices matter, but appearances lie.
+You are free to roam, but you are not free from doubt.
+
+This challenge was crafted for those who do not trust what they see —
+for those who question everything and expect nothing in return.
+
+There is no guidance.
+There are no breadcrumbs.
+Only the void... and the possibility of triumph.

@@ -1,0 +1,10 @@
+
+{% extends "base.html" %}
+{% block content %}
+<h2>ACM Portal Login</h2>
+<p>Please enter your pre-auth token to access your ACM account.</p>
+<form method="POST">
+    <input type="text" name="token" placeholder="Pre-Auth Token" required>
+    <button type="submit">Login</button>
+</form>
+{% endblock %}
