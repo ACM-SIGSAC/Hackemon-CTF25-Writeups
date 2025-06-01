@@ -1,6 +1,9 @@
 # 🕵️‍♀️ Decrypting Layers:“ONION” CTF Challenge
 
-**Category:** CRYPTO | **Difficulty:** Easy
+**Category:** CRYPTO 
+
+**Difficulty:** Easy
+
 **Author:** Rabia Ishtiaq
 
 Let me walk you through how to solve it step-by-step — all using online tools.
